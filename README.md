@@ -15,5 +15,6 @@ https://github.com/user-attachments/assets/dca156e5-76ce-4f1a-9e0a-2eac1eab3d01
 
 
 
-
+# Inspiration
+This project was created with the guidance of [Pharmacy Management System in CSharp (C#, Visual Studio, MySql) Complete Project/BTech Days]([link to the tutorial](https://www.youtube.com/watch?v=HTgvH83Emm0&list=PLdRq0mbeEBmzDSsIBOK_IcgWcQVydDMxH&ab_channel=BTechDays)). It served as a valuable resource in understanding the fundamentals of Windows Forms applications and database integration with C#.
 
